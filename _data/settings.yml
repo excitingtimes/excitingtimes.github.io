@@ -9,7 +9,8 @@ google-ID: 'UA-112060364-1'
 menu:
 - {name: 'About',   url: 'about.html'}
 - {name: 'Blog', url: 'blog.html'}
-- {name: 'Papers', url: 'papers.html'}
+- {name: 'Publications', url: 'papers.html'}
+- {name: 'Teaching', url: 'teaching.html'}
 - {name: 'Contact', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
