@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Text Formatting Examples"
+title: "Text Formatqzfsefting Examples"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
-image: cards.jpg
+image: chess-square.jpg
 ---
 
 # Markdown Support

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Getting Sseftarted"
 author: "Paul Le"
 categories: journal
 tags: [documentation,sample]
-image: forest.jpg
+image: chess-square.jpg
 ---
 
 # Lagrange
