@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Text Formatting Examples"
-author: "Paul Le"
+title: "Hi"
+author: "Hugo S."
 categories: journal
-tags: [documentation,sample]
+tags: [meta, about]
 image: cards.jpg
 ---
 
