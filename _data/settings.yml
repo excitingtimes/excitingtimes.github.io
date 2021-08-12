@@ -1,10 +1,10 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: true
-  disqus_shortname: 'exciting-times'
+  disqus_shortname: 'excitingtimes'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'G-3ZX9KZ817Q'
+google-ID: 'UA-204831507-1'
 
 menu:
 - {name: 'About',   url: 'about.html'}
