@@ -1,19 +1,20 @@
 # Change 'comments' to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  comments: true
+  disqus_shortname: 'exciting-times-hugo-sonnery'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'About',   url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
+- {name: 'Blog', url: 'blog.html'}
+- {name: 'Papers', url: 'papers.html'}
 - {name: 'Contact', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github',     link: 'https://www.github.com/lenpaul'}
+- {icon: 'github',     link: 'https://www.github.com/hugoby42'}
 - {icon: 'twitter',    link: 'https://twitter.com/paululele'}
 - {icon: 'linkedin',   link: 'http://www.linkedin.com/in/lenpaul/'}
 - {icon: 'envelope',   link: 'mailto:l.nguyen.paul@gmail.com'}
@@ -25,8 +26,8 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Feel free to share !'
 
-related_posts: 'You may also enjoy:'
+related_posts: 'You may also enjoy :'
 
 post_date_prefix: 'Written on'
