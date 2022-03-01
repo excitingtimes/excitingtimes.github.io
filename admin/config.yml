@@ -1,0 +1,24 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update
+  site_domain: excitingtimes.github.io/music-ai-reading-group
+  repo: music-ai-reading-group
+
+media_folder: "assets/img/" # Media files will be stored in the repo under img
+
+collections:
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "_posts/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string", default: "Episode 1 : Hello world"}
+      - {label: "Author", name: "author", widget: "string", default: " and Hugo Sonnery"}
+      - {label: "Categories", name: "categories", widget: "string", default: "Paper presentations"}
+      - {label: "Tags", name: "tags", widget: "list", default: "Music generation"}
+      - {label: "Image", name: "image", widget: "image", default: "hello-world.png"}
+      - {label: "Author picture", name: "author_picture", widget: "image", default: "sample-author.jpeg"}
+      - {label: "Illustration", name: "illustration", widget: "image", default: "hello-world.png"}
+      - {label: "Body", name: "body", widget: "markdown", default=""}
