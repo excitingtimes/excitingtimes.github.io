@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact
 ---
 
-📣 To keep up to date with our latest publications, blog posts and announcements, feel free to **subscribe** to this blog's **mailing list** below :
+📣 To stay up to date with our latest publications, blog posts and announcements, feel free to **subscribe** to this blog's **mailing list** below :
 
 <form name="contact" method="POST" data-netlify="true">
   <p>
