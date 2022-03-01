@@ -6,22 +6,14 @@ disqus:
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-204831507-1'
 
-menu:
-- {name: 'About',   url: 'about.html'}
-- {name: 'Blog', url: 'blog.html'}
-- {name: 'Publications', url: 'papers.html'}
-- {name: 'Teaching', url: 'teaching.html'}
-- {name: 'Podcast', url: 'podcast.html'}
-
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github',     link: 'https://www.github.com/hugoby42'}
+- {icon: 'github',     link: 'https://www.github.com/excitingtimes'}
 - {icon: 'twitter',    link: 'https://twitter.com/volut3s'}
 - {icon: 'facebook',    link: 'https://facebook.com/exciting-times'}
 - {icon: 'linkedin',   link: 'http://www.linkedin.com/in/hugo42/'}
 - {icon: 'envelope',   link: 'mailto:hugo.sonnery@mail.mcgill.ca'}
 - {icon: 'rss-square', link: '/feed.xml'}
-# - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
 pagination:
