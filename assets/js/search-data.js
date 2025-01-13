@@ -354,11 +354,11 @@ ninja.data = [{
           window.location.href = "/blog/2021/diagrams/";
         
       },
-    },{id: "post-a-distill-style-blog-post",
+    },{id: "post-global-workspace-theory-101",
       
-        title: "a distill-style blog post",
+        title: "Global Workspace Theory 101",
       
-      description: "an EXM of a distill-style blog post and main elements",
+      description: "A primer on a major functional theory of computational consciousness for ML researchers",
       section: "Posts",
       handler: () => {
         
