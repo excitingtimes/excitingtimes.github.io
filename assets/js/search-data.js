@@ -358,7 +358,7 @@ ninja.data = [{
       
         title: "a distill-style blog post",
       
-      description: "an example of a distill-style blog post and main elements",
+      description: "an EXM of a distill-style blog post and main elements",
       section: "Posts",
       handler: () => {
         
